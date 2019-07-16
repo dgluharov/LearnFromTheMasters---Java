@@ -10,8 +10,8 @@
 ### Java ORM/DataBase module with Hibernate in Learn from the masters course:
 Here are my tasks and solutions at Learn from the masters DB & ORM course
    
-* (Film online)</b> system can be found [here.](https://github.com/dgluharov/OnlineMovies)
-* (Online Store)</b> project can be found [here.](https://github.com/dgluharov/OnlineStore-ORM)
+* <b>Film online</b> system can be found [here.](https://github.com/dgluharov/OnlineMovies)
+* <b>Online Store</b> project can be found [here.](https://github.com/dgluharov/OnlineStore-ORM)
    
 ### Cuba-Platform module in Learn from the masters course:
 
