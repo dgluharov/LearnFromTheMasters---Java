@@ -12,7 +12,7 @@ Here are my tasks and solutions at Learn from the masters DB & ORM course
    
 * <b>Film online</b> system can be found [here.](https://github.com/dgluharov/OnlineMovies)
 * <b>Online Store</b> project can be found [here.](https://github.com/dgluharov/OnlineStore-ORM)
-* <b>Final project(Jobs)</b> for the module DataBase can be found [here.](https://github.com/dgluharov/Jobs)
+* <b>Final project(Jobs)</b> for the module ORM/DataBase module with Hibernate can be found [here.](https://github.com/dgluharov/Jobs)
    
 ### Cuba-Platform module in Learn from the masters course:
 
